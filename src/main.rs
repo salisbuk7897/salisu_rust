@@ -2,11 +2,22 @@
 //mod vars;
 //mod types;
 //mod string;
-//mod turples;
+//mod tuples;
 //mod arrays;
-mod vectors;
+//mod vectors;
+//mod conditionals;
+//mod loops;
+//mod functions;
+//mod pointer_refs;
+//mod structs;
+//mod enums;
+mod cli;
+
+
+
+
 
 
 fn main() {
-    vectors::run()
+    cli::run()
 }
